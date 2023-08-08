@@ -9,3 +9,8 @@ Day 1 (6th August)
 Day 2
 - continuing recap
 - went over JS and advanced JS notions
+
+Day 3
+- continuing recap
+- starting work on the portfolio (again)
+- going over some ethical hacking notes I took last year
