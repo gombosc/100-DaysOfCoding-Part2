@@ -22,6 +22,9 @@ Day 5
 - continuing
 
 Day 6
+- Continuing
+
+Day 6
 - continuing
 
 Day 7
