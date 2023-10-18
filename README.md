@@ -36,5 +36,17 @@ Day 7
 Day 8
 -
 
+Stopped coding for a while, got caught up with life and University. Did some minor programming these last few weeks, recaping knowledge
+Date: 18 October
+
+Day 1
+- Javascript exercises and coding problems to revise some concepts
+- won a hackathon from Nasa last weekend where I've also created a website with Boostrap in less than two days, put it live and all that.
+- attended meetings on Artificial Intelligence last week
+- today went to a DeepLearning meetign regarding OCR for Invoices and Music Production through machine learning (lots to learn)
+- tomorrow is a meeting on the Worldcoin project started by Sam Altman
+
+
+
 Day 7
 -
