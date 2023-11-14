@@ -1,5 +1,5 @@
 # 100-DaysOfCoding-Part2
-Doing another 100 days of coding after finishing the first one and failing the first attempt at day 45 during the end of July
+Doing another 100 days of coding after finishing the first one and failing the second attempt at day 45 during the end of July
 
 Day 1 (6th August)
 - Starting a big recap of everything I've leant so far
@@ -15,28 +15,8 @@ Day 2
 - starting work on the portfolio (again)
 - going over some ethical hacking notes I took last year
 
-Day 4
-- continuing 
-
-Day 5
-- continuing
-
-Day 6
-- Continuing
-
-Day 7
-- continuing
-
-Day 6
-- continuing
-
-Day 7
-- 
-
-Day 8
--
-
 Stopped coding for a while, got caught up with life and University. Did some minor programming these last few weeks, recaping knowledge
+
 Date: 18 October
 
 Day 1
@@ -46,7 +26,10 @@ Day 1
 - today went to a DeepLearning meetign regarding OCR for Invoices and Music Production through machine learning (lots to learn)
 - tomorrow is a meeting on the Worldcoin project started by Sam Altman
 
+**Restarting**
+Date: 14th November
 
-
-Day 7
--
+Day 1:
+- last week finished a fancy menu bar exercise, didn't update in time
+- today worked on a music player in JS, moving through songs
+- 
