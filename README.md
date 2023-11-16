@@ -29,7 +29,18 @@ Day 1
 **Restarting**
 Date: 14th November
 
-Day 1:
+**Day 1:**
 - last week finished a fancy menu bar exercise, didn't update in time
 - today worked on a music player in JS, moving through songs
-- 
+
+**Day 2:** 
+- innertText creates a reflow
+- finished the music app
+- decided to put the songs info into a json file
+- created async functions
+
+**Day 3:**
+- debugged a bit because of some json paring errors
+- finally did it it with object.keys and object.values
+- on first load the song wouldn't change it's original name and would throw an error declaring that my json variables are undefined
+- realized the async nature of my functions and that the fetch triggers after the loadFunction, created a setTimeout
