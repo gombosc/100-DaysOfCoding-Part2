@@ -44,3 +44,26 @@ Date: 14th November
 - finally did it it with object.keys and object.values
 - on first load the song wouldn't change it's original name and would throw an error declaring that my json variables are undefined
 - realized the async nature of my functions and that the fetch triggers after the loadFunction, created a setTimeout
+
+**Day 4 til Day 8**
+- didn't get a change to update here each day
+- started custom countdown project, completed it 
+- decided to added another function to custom countdown, main page where you can dynamically create new countdowns
+- still have to implement logic for retrieving each countdown and adding to the main page
+- setTimeout, async functions, JSON, local storage and cookies
+
+**Day 8 (22th November)**
+> added remove button for divs in local storage
+
+> figured out the logic for keeping track of the containers created, their key in Local storage and updating it when items are removed
+
+> modified logic so that every container is checked inside the storage with a foor loop
+
+> modified html structure, added new design in css
+
+> solved the dynamic layout size, min and max height
+
+> finished the Ui for main page, dynamic creation of divs and allocation to local storage
+
+
+
