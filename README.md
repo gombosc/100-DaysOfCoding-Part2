@@ -65,5 +65,8 @@ Date: 14th November
 
 > finished the Ui for main page, dynamic creation of divs and allocation to local storage
 
+**Day 9 to Day **
+- finished countdown app, need to add details
+- started nextjs project
 
 
