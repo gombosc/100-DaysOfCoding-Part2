@@ -69,4 +69,8 @@ Date: 14th November
 - finished countdown app, need to add details
 - started nextjs project
 
+**Day **
+- day at Digital Sunray office, worked on creating a dynamic mobile add in JS
+- spent half of the day working on the project, mostly CSS and dynamic JS, transitions, keyframes, media queries and so on
+
 
